@@ -1,54 +1,83 @@
 # 👋 Hi, I'm Muhammad Junaid Khan!
 
-[cite_start]I am a **Performance-driven Software Engineer** specializing in **Flutter Mobile Development**[cite: 7]. [cite_start]I focus on building dual-sided marketplaces and service management systems that solve real-world problems through scalable architecture and user-centric UI/UX[cite: 7, 8].
+[cite_start]I am a **Performance-driven Software Engineer** specializing in **Flutter Mobile Development**[cite: 7]. [cite_start]I build scalable, production-ready applications with complex role-based architectures and seamless UI/UX[cite: 7, 8].
 
 ---
 
 ### 🚀 Featured Live Projects (Production Ready)
 
 #### 🚗 [King Driving School Management](https://play.google.com/store/apps/details?id=com.kingdrivingschool.kingdriving)
-**The Problem:** Driving schools often struggle with manual scheduling and lack of transparent communication between instructors and students.
-**The Solution:** A 3-tier ecosystem (Teacher, Student, Guest) that digitizes the entire lifecycle of a driving school.
-* **Teacher Dashboard:** Real-time class schedules, student performance tracking, and a workflow to approve/reject leave requests.
-* **Student Dashboard:** Automated attendance reports, personal schedules, and digital leave application.
-* **Guest Mode:** An "Explore" feature allowing potential students to view fee structures and facilities without signing up, acting as a marketing tool for the school.
+A comprehensive system designed to streamline driving school operations with clear separation of roles.
+
+* **For Teachers:**
+    * Personalized dashboard for upcoming classes and student schedules.
+    * Full control over student leave requests (Accept/Reject workflow).
+    * Real-time tracking of student attendance and performance metrics.
+* **For Students:**
+    * Direct access to class schedules and assigned tasks.
+    * Digital leave application system with status tracking.
+    * Detailed personal attendance reports to track progress.
+* **For Guests (Explore Mode):**
+    * Marketing-focused view to explore school facilities, fee structures, and services before enrollment.
 
 #### ✈️ [Traveloup - Travel Marketplace](https://play.google.com/store/apps/details?id=com.traveloup.app)
-**The Problem:** Travelers find it hard to get competitive prices from multiple agencies simultaneously.
-[cite_start]**The Solution:** A bidding-based marketplace where travelers post requirements and agencies compete in real-time. [cite: 27]
-* [cite_start]**Bidding Logic:** Engineered a real-time system where traveler requirements trigger notifications to agencies. [cite: 28]
-* [cite_start]**Trust Layer:** Integrated a 10% advance payment system with strict cancellation tracking to ensure commitment from both sides. [cite: 28]
+[cite_start]A dual-sided marketplace connecting travelers with agencies via real-time social and financial logic[cite: 25, 27].
+
+* [cite_start]**Traveler Features:** Post travel requirements, browse agency social feeds, and receive real-time bids[cite: 27].
+* [cite_start]**Agency Features:** Manage business profiles and compete for traveler requirements through a bidding system[cite: 27].
+* **Core Systems:**
+    * [cite_start]**Bidding Logic:** Real-time requirement matching system[cite: 28].
+    * [cite_start]**Advance Payment:** A secure 5-10% advance payment gateway to confirm bookings[cite: 28].
+    * [cite_start]**Integrity Tracking:** Built-in cancellation tracking to ensure platform trust[cite: 28].
 
 #### 🛡️ [Rapid Kill - Pest Control Management](https://play.google.com/store/apps/details?id=com.rapidkill.rapid_kill)
-**The Problem:** B2B service companies lose time manually generating field reports and invoices.
-[cite_start]**The Solution:** An operational tool for technicians to log usage and sync data instantly with the home office. [cite: 35]
-* [cite_start]**Automation:** Developed an automated PDF engine that generates professional service reports and invoices on the fly, reducing admin work by 100%. [cite: 36]
-* [cite_start]**Data Integrity:** Role-based access ensures technicians only see assigned tasks and chemical inventory. [cite: 35]
+[cite_start]A specialized B2B operational tool designed for field service management[cite: 33, 35].
+
+* [cite_start]**Technician Operations:** Role-based access for technicians to log chemical usage and sync field reports instantly[cite: 35].
+* [cite_start]**Automation:** Integrated PDF library to automate the generation of professional invoices and service reports[cite: 36].
+* [cite_start]**Admin Sync:** Real-time data synchronization between field staff and central management[cite: 35].
 
 ---
 
-### 📱 Full Portfolio & Internal Projects
+### 📱 Full Portfolio & Complex Systems
 
-* [cite_start]**JustBook:** Nearby services discovery platform (plumbers, electricians) featuring **VoIP calling**, in-app chat, and an **AI Assistant** for user guidance. [cite: 30, 32]
-* **FCPS-Prep:** A high-performance educational portal for medical students. [cite_start]Optimized data fetching for **large-scale medical question banks** to ensure zero-lag during exams. [cite: 38, 39]
-* **Assan Khatta:** An offline-first digital ledger for small businesses. [cite_start]Uses **SQLite/Hive** for local data persistence and real-time inventory calculation. [cite: 41, 42]
+#### 🏠 JustBook - On-Demand Services Platform
+[cite_start]A location-based service discovery hub for plumbers, electricians, and other professionals[cite: 29, 30].
+
+* [cite_start]**Provider Ecosystem:** Dashboards for managing dynamic pricing, tracking earnings, and profile analytics[cite: 31].
+* [cite_start]**User Experience:** Category-wise browsing, secure payment integration, and location-based discovery[cite: 30, 31].
+* [cite_start]**Advanced Integration:** Features **VoIP calling**, in-app chat, and an **AI Assistant** for user guidance[cite: 32].
+
+#### 📚 FCPS-Prep - Medical Exam Community
+[cite_start]A specialized educational portal designed for medical students[cite: 37, 38].
+
+* [cite_start]**Content Management:** Category-wise medical question banks and real-time group discussions[cite: 38].
+* [cite_start]**Performance:** Optimized data fetching logic for massive medical datasets to ensure a lag-free experience[cite: 39].
+
+#### 📒 Assan Khatta - Digital Ledger
+[cite_start]An offline-first financial tool for buyer-seller credit and inventory management[cite: 40, 41].
+
+* [cite_start]**Ledger Logic:** Manage debit/credit records with real-time inventory tracking[cite: 41].
+* [cite_start]**Financial Dashboard:** Automated generation of profit/loss summaries and stock level notifications[cite: 42].
+* [cite_start]**Tech:** Uses **SQLite/Hive** for robust local data persistence[cite: 40].
 
 ---
 
 ### 🛠️ Technical Toolkit
 
 * [cite_start]**Languages:** Dart, C#, SQL, HTML/CSS, JavaScript [cite: 44]
-* [cite_start]**Frameworks:** Flutter, Firebase (Auth, Firestore, Cloud Functions), REST APIs, ASP.NET Core [cite: 45]
-* [cite_start]**Tools:** VS Code, Android Studio, MySQL, Unity, Play Console [cite: 45]
+* [cite_start]**Frameworks:** Flutter, Firebase (Auth, Firestore, Cloud), REST APIs, ASP.NET Core [cite: 45]
+* [cite_start]**Tools:** VS Code, Android Studio, Git, Play Console [cite: 45]
 
 ---
 
 ### 📊 GitHub Activity
 ![Junaid's Stats](https://github-readme-stats.vercel.app/api?username=junaidkhanniazi&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=junaidkhanniazi&layout=compact&theme=radical)
 
 ---
 
-### 📫 Connect With Me
+### 📫 Let's Connect!
 * [cite_start]💼 [**LinkedIn Profile**](https://linkedin.com/in/muhammadjunaidkhanniazi) [cite: 5]
 * [cite_start]📧 [**Email Me**](mailto:mjunaidkhandkl@gmail.com) [cite: 4]
 * [cite_start]📍 Islamabad, Pakistan [cite: 2]
