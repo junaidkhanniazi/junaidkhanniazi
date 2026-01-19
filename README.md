@@ -8,16 +8,16 @@ I am a **Performance-driven Software Engineer** specializing in **Flutter Mobile
 
 | ✈️ Traveloup - Travel Marketplace | 🛡️ Rapid Kill - Pest Control |
 | :--- | :--- |
-| Dual-sided marketplace with real-time bidding and advance payment logic. | B2B management tool with automated PDF reporting and role-based access. |
-| [**Play Store Link**](https://play.google.com/store) | [**Play Store Link**](https://play.google.com/store) |
+| Developed a dual-sided marketplace with real-time bidding and advance payment logic. | B2B management tool with automated PDF reporting and role-based access. |
+| [**View on Play Store**](https://play.google.com/store/apps/details?id=com.traveloup.app&pcampaignid=web_share) | [**View on Play Store**](https://play.google.com/store/apps/details?id=com.rapidkill.rapid_kill&pcampaignid=web_share) |
 
 ---
 
 ### 📱 My App Portfolio
 
-- **JustBook:** On-demand service platform with VoIP, in-app chat, and AI assistant.
+- **JustBook:** On-demand nearby services platform with VoIP, in-app chat, and AI assistant.
 - **FCPS-Prep:** Specialized educational portal for medical students with optimized datasets.
-- **Assan Khatta:** Offline-first digital ledger for credit and inventory tracking.
+- **Assan Khatta:** Offline-first digital ledger for credit and inventory tracking using SQLite.
 
 ---
 
@@ -33,3 +33,5 @@ I am a **Performance-driven Software Engineer** specializing in **Flutter Mobile
 - 💼 [**LinkedIn Profile**](https://linkedin.com/in/muhammadjunaidkhanniazi)
 - 📧 [**Email Me**](mailto:mjunaidkhandkl@gmail.com)
 - 📍 Islamabad, Pakistan
+
+---
