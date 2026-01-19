@@ -1,16 +1,35 @@
-## Hi there 👋
+# 👋 Hi, I'm Muhammad Junaid Khan!
 
-<!--
-**junaidkhanniazi/junaidkhanniazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I am a **Performance-driven Software Engineer** specializing in **Flutter Mobile Development**. I build scalable, user-centric apps with a focus on clean UI/UX and production-ready architecture.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🚀 Featured Projects (Live on Play Store)
+
+| ✈️ Traveloup - Travel Marketplace | 🛡️ Rapid Kill - Pest Control |
+| :--- | :--- |
+| Dual-sided marketplace with real-time bidding and advance payment logic. | B2B management tool with automated PDF reporting and role-based access. |
+| [**Play Store Link**](https://play.google.com/store) | [**Play Store Link**](https://play.google.com/store) |
+
+---
+
+### 📱 My App Portfolio
+
+- **JustBook:** On-demand service platform with VoIP, in-app chat, and AI assistant.
+- **FCPS-Prep:** Specialized educational portal for medical students with optimized datasets.
+- **Assan Khatta:** Offline-first digital ledger for credit and inventory tracking.
+
+---
+
+### 🛠️ Technical Toolkit
+
+- **Languages:** Dart, C#, SQL, HTML/CSS, JavaScript
+- **Frameworks:** Flutter, ASP.NET Core, Firebase, REST APIs, Git
+- **Tools:** VS Code, Android Studio, Play Console
+
+---
+
+### 📫 Let's Connect!
+- 💼 [**LinkedIn Profile**](https://linkedin.com/in/muhammadjunaidkhanniazi)
+- 📧 [**Email Me**](mailto:mjunaidkhandkl@gmail.com)
+- 📍 Islamabad, Pakistan
